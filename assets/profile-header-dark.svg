@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Archer · Agent skills &amp; context infrastructure</title>
+  <desc id="desc">A quiet blue profile banner with a stack of connected documents.</desc>
+  <rect width="1200" height="300" rx="16" fill="#192C3B"/>
+  <text x="64" y="57" fill="#9DB6C7" font-family="'SFMono-Regular', Consolas, monospace" font-size="17" letter-spacing="2">ARCHERZHANG / OPEN SOURCE</text>
+  <text x="60" y="160" fill="#EDF4F8" font-family="Georgia, 'Times New Roman', serif" font-size="90" letter-spacing="-3">Archer.</text>
+  <text x="64" y="212" fill="#B8D5E7" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif" font-size="28">Agent skills &amp; context infrastructure</text>
+  <path d="M64 253H736" stroke="#365163" stroke-width="1.5"/>
+  <g stroke-linecap="round" stroke-linejoin="round">
+    <path d="M857 124V87a12 12 0 0 1 12-12h142a12 12 0 0 1 12 12v111a12 12 0 0 1-12 12h-28" stroke="#58768A" stroke-width="2"/>
+    <rect x="882" y="99" width="166" height="135" rx="12" fill="#284558" stroke="#58768A" stroke-width="2"/>
+    <rect x="907" y="124" width="166" height="135" rx="12" fill="#192C3B" stroke="#B8D5E7" stroke-width="2"/>
+    <path d="M936 159h60M936 181h107M936 199h85M936 217h47" stroke="#799AAF" stroke-width="3"/>
+    <path d="M1063 53h22a23 23 0 0 1 23 23v106a23 23 0 0 1-23 23h-12" stroke="#B8D5E7" stroke-width="2"/>
+    <path d="m1080 198-7 7 7 7" stroke="#B8D5E7" stroke-width="2"/>
+    <circle cx="1063" cy="53" r="5" fill="#B8D5E7"/>
+  </g>
+</svg>
